@@ -1,0 +1,3 @@
+class DannyClassOnlyOne {}
+
+class DannyClassThreeOfThem {}
